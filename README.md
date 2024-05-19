@@ -20,3 +20,5 @@ the deployment of model is done on gradio.I have hosted the model on hugging fac
 to deploy the model I neede to add `scikit-learn`,`torch` and `transformers` to `requirements.txt`. 
 ## the 🤗 space is currently private and please messege me to turn the space public.
 
+![Alt text](/img1.jpg?raw=true "Optional Title")
+![Alt text](/img2.jpg?raw=true "Optional Title")
