@@ -25,4 +25,5 @@ to deploy the model I needed to add `scikit-learn`, `torch` and `transformers` t
 
 ![Alt text](/img1.jpg?raw=true "Optional Title")
 ![Alt text](/img2.jpg?raw=true "Optional Title")
-## to run this model, run the cells in ipynb file in order (I have deployed my model to avoid this)
+## to run this model, run the cells in ipynb file in order after uploading the files with paragraphs and queries files I have included in my drive link below(I have deployed my model to avoid this)
+drive link for the files - https://drive.google.com/drive/folders/1uyInhqB9bz3w8EuHkVgoDtCzfclDmNHl?usp=sharing
