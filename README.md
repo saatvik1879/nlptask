@@ -25,3 +25,4 @@ to deploy the model I needed to add `scikit-learn`, `torch` and `transformers` t
 
 ![Alt text](/img1.jpg?raw=true "Optional Title")
 ![Alt text](/img2.jpg?raw=true "Optional Title")
+## to run this model, run the cells in ipynb file in order (I have deployed my model to avoid this)
