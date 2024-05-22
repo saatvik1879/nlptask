@@ -1,5 +1,6 @@
 # NLP task
 hugging face link - https://huggingface.co/spaces/saatvik1879/NLPtask
+
 lucid map link - https://lucid.app/lucidchart/1f8a351b-464d-4554-945d-a105f2827234/edit?viewport_loc=-11%2C-263%2C2214%2C1206%2C0_0&invitationId=inv_aeff731a-468c-438f-a991-8475fc563adf
 ## approach
 I am going to use cosine similarity to find the top 5 paragraphs based on. To answer the queries I am using DistilBERT from the \hugging face question answering pipeline, where I will pass the above 5 paragraphs as context to the model. using the context and query the model would generate the answer. and then deploy the model using gradio.
